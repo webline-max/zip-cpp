@@ -30,12 +30,12 @@ Uses these stdlib headers:
 
 How to build
 
-1. Include `zip.hpp` in your project
+1. Include `zip.cpp` in your project
 2. Link against the compiled object or include as header-only if you define implementation macros
 3. No external dependencies - zlib is bundled
 
 ```cpp
-#include "zip.hpp"
+#include "zip.cpp"
 ```
 
 How to use
