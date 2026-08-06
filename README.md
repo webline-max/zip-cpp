@@ -1,4 +1,4 @@
-# Webline_Zip
+# zip-cpp
 ---
 
 Small C++ zlib/minizip wrapper for ZIP archive manipulation (based on minizip & zlib 1.3.1)
